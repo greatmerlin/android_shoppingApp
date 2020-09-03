@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shoppingapp.maps.MapActivity">
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <SearchView
+        android:id="@+id/searchMap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/search_design"
+        android:elevation="5dp"
+        android:iconifiedByDefault="false"
+        android:queryHint="Search..." />
+
+    <RelativeLayout
+        android:id="@+id/mapsNearby"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/mapsIconShop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="10dp"
+            android:contentDescription="@string/find_shop_nearby"
+            android:onClick="nearbyPlaces"
+            android:padding="5dp"
+            android:src="@mipmap/nearbyshops" />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

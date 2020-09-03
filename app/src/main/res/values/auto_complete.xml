@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autoCompleteArray">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Bacon</item>
+        <item>Beer</item>
+        <item>Bread</item>
+        <item>Eggs</item>
+        <item>Pineapple</item>
+        <item>Water</item>
+    </string-array>
+</resources>

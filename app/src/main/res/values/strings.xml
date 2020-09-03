@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="moto">Gemeinsam Einkaufen</string>
+    <string name="log_in">Log in</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="register">Don\'t have an account? Sign up here!</string>
+    <string name="registration">Registration</string>
+    <string name="reg">Register</string>
+    <string name="alreadyAcc">Already have an account? Sign up here!</string>
+    <string name="log_out">Log out</string>
+    <string name="exit">Exit</string>
+    <string name="total_amount">Total Amount: </string>
+    <string name="add_list">Add an item to your list</string>
+    <string name="type">Type:</string>
+    <string name="amount">Amount:</string>
+    <string name="note">Note:</string>
+    <string name="item">Item:</string>
+    <string name="chf">CHF:</string>
+    <string name="remember">Remind me to go shopping</string>
+    <string name="manage_this_item">Manage this item</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="about">About</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="price_in_chf">Price in CHF:</string>
+    <string name="shops">Find shops close to you</string>
+    <string name="testItem">testItem</string>
+    <string name="dummyNote">testNote</string>
+    <string name="basket">basket</string>
+    <string name="app_logo">app logo</string>
+    <string name="_5000">5000</string>
+    <string name="titel">Your Shopping List</string>
+    <string name="totalAmount">00000</string>
+    <string name="find_shop_nearby">find shop nearby</string>
+    <string name="requiredField">Required Field..</string>
+    <string name="processing">Processing</string>
+    <string name="success">Successful</string>
+    <string name="invalid_address_format">invalid email address format</string>
+    <string name="createUserEmailFail">createUserWithEmail:failure</string>
+    <string name="short_pass">password must be at least 6 characters long</string>
+    <string name="email_exists">Email already in use</string>
+    <string name="process">Processing</string>
+    <string name="wrong_pass">wrong password</string>
+    <string name="user_d_exist">user doesn\'t exist</string>
+    <string name="reminder_first">Friendly reminder from: Gemeinsam Einkaufen</string>
+    <string name="reminder_sec">Don\'t forget to buy your list\'s items!</string>
+    <string name="item_add">item added</string>
+    <string name="sl">Shopping List</string>
+    <string name="search_near">Searching for nearby shops</string>
+    <string name="show_near">Showing for nearby shops</string>
+    <string name="near_json">https://maps.googleapis.com/maps/api/place/nearbysearch/json?</string>
+    <string name="chfTotal">\ CHF\</string>
+    <string name="exitBoolean">EXIT</string>
+    <string name="geCs">Gemeinsam Einkaufen</string>
+    <string name="channelG">Channel for ge</string>
+    <string name="geNote">ge</string>
+    <string name="exitOKD">EXIT</string>
+    <string name="geC">ge</string>
+    <string name="loc">location=</string>
+    <string name="commaWhite">,</string>
+    <string name="rady"><![CDATA[&radius=]]></string>
+    <string name="typeAnd"><![CDATA[&type=]]></string>
+    <string name="sensorT"><![CDATA[&sensor=true]]></string>
+    <string name="keyAnd"><![CDATA[&key=]]></string>
+    <string name="gmay">GoogleMapsActivity</string>
+    <string name="urlTS">\"url = \"</string>
+    <string name="permDen">Permission Denied...</string>
+    <string name="userCL">user Current Location</string>
+</resources>
